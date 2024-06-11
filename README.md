@@ -1,6 +1,7 @@
 # Hands on RL: SOC
 
 > **Note:**
+> 
 > To solve the questions in the Weeks (If you are interested ☺️), checkout the Questions folder in the Weeks.
 > Check out the [Course Info]() file for more details!
 
