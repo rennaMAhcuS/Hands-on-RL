@@ -1,71 +1,62 @@
-# Hands on Reinforcement Learning [Project ID: 153]
+# Hands on RL: SOC
 
-Check out the [Walkthrough](Walkthrough.md) file for more details!
+> **Note:**
+> To solve the questions in the Weeks (If you are interested ☺️), checkout the Questions folder in the Weeks.
 
-## General Information
+Check out the [Course Info]() file for more details!
 
-- **General Category:** Machine Learning
-- **Specific Category:** RL
-- **Mentee Capacity:** 10-15
-- **Mentor:** Soham Dahane (22b0941)
-- **Co-Mentor:** Shreyas Katdare (22b0636)
-- **Description:**
-  Hands on Reinforcement Learning. Reading material: Sutton & Barto, "Grokking Deep Reinforcement Learning." We will be
-  following Grokking as a reference for the theory and read chapters from it while implementing the strategies described
-  in it in Python. Some resources we may use are
-  the [Slides on RL by David Silver](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)
-  and
-  the [Slides from the course CS 747: Foundations of Intelligent and Learning Agents](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2022/index.html).
-  I have done both WiDS and
-  SoC myself under the same
-  topic ([Project Repo](https://github.com/theashwinabraham/WiDS-Training-AI-to-play-games-using-Reinforcement-Learning)).
+## [Prerequisites](Books)
 
-## Timeline
+<!-- To Complete -->
 
-- **Week 1: Implementations of Common Machine Learning Algorithms**
-    - Using the standard implementations of some famous algorithms using Scikit-Learn.
-- **Week 2: MAB, MDPs, Implement a Game of Snake**
-    - Learning objectives for this week are:
-        1. **N-armed bandits:** Perhaps the simplest RL challenge. You are provided with n arms, and you can pull one of
-           them at a time. Each arm gives a reward from a probability distribution, independent of which arms you pulled
-           beforehand (However, it may depend on the time step you pull). Your task is to maximize the sum of these
-           rewards, essentially finding the arm which gives the maximum expected reward. We will be studying a few
-           algorithms to solve this problem.
-        2. **Formalism of Reinforcement Learning in terms of Markov Decision Process:** A way to generalize and
-           represent a given problem as a Reinforcement Learning problem.
-        3. **Dynamic Programming:** The most basic set of algorithms to deal with prediction and control problems, that
-           is, finding an optimal policy given the complete Markov Decision Process.
-- **Week 3: Monte Carlo Methods, Temporal Difference Learning**
-    - **Part I:** Implementing the Monte Carlo ES algorithm for a given MDP. I've provided the MDP as a Linux
-      executable. If it doesn't run on your device, please let me know, and I will share another executable.
-    - **Part II:** Solving the game of Tic Tac Toe. Tic Tac Toe can be solved exactly via the minimax algorithm, and in
-      Part I you will have to implement this algorithm. However, you will see that this algorithm is extremely
-      computationally expensive. Therefore, we will use an on-policy RL algorithm (we will use an algorithm based on
-      ε-soft policies).
-- **Week 4: DDQN**
-    - Reading chapters from Grokking and implementing.
-- **Weeks 5 & 6: Implementing a Paper to Create a Chess Engine Based on Deep RL**
-    - Implement the paper.
+## [Week 1](Week1)
 
-## Checkpoints
+So for the first week we'll start with a bit of light work. Your task will be to read the first two chapters from
+grookings and explore more about the new terms that you come across.
 
-- **Checkpoint 1:** Implementations of Common Machine Learning Algorithms
-- **Checkpoint 2:** MAB, MDPs, Implement a Game of Snake
-- **Checkpoint 3:** Monte Carlo Methods, Temporal Difference Learning
-- **Checkpoint 4:** DDQN
-- **Checkpoints 5 & 6:** Implementing a Paper to Create a Chess Engine Based on Deep RL
+Also in this week, we will learn about Python, in particular Python Libraries such as NumPy, TensorFlow, PyTorch,
+MatPlotLib and Scikit-Learn.
 
-## Prerequisites
+We will implement some of the common ML algorithms from scratch, I will provide some reading material for the same and
+an assignment by eod or by tomorrow. Till then, you can get some basic ideas about Machine Learning through any online
+source or YouTube video.
 
-1. Basic knowledge of Python libraries like numpy, sklearn.
-2. Basic knowledge of RL (can read the first 2-3 chapters from Sutton & Barto).
+### [Week 1 Assignment](Week1/week1.pdf)
 
-<!--
-## Statement of Purpose (SOP)
+- **Q1:** _Inverse Transform Sampling_ - https://en.wikipedia.org/wiki/Inverse_transform_sampling
+- **Q2:**
+    - _PCA_ - https://medium.com/analytics-vidhya/understanding-principle-component-analysis-pca-step-by-step-e7a4bb4031d9q2.
+    - _pandas.read_csv_ - https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
+    - _scatter plot_ - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+- **Q3:** _scipy.optimize.curve fit._ - https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
 
-I am very much interested in learning about Reinforcement Learning and Machine Learning (as AI-ML is a field with very
-high demand 🙂). I believe working on your project would be a fantastic way for me to advance in this area. I am excited
-to learn about the theoretical foundations of reinforcement learning and machine learning and their real-world
-applications. I also have a basic knowledge of Python. I have a strong commitment to learning and meeting deadlines. I
-am confident that my participation will enhance my Machine Learning and Reinforcement Learning expertise.
--->
+## [Week 2](Week2)
+
+Hope everyone had fun learning the basics of ML in the first week (and finished the assignment in time). Now it's time
+to start with Reinforcement Learning, a paradigm in Machine Learning. We will be learning the basics of RL this week.
+
+Our learning objectives for this week are:
+
+1. **N-armed bandits:**
+
+   Perhaps the simplest RL challenge. You are provided with n arms, and you can pull one of them at a time. Each arm
+   gives a reward from a probability distribution, independent of which arms you pulled beforehand (However it may
+   depend on the time step you pull). Your task is to maximize the sum of these rewards, that is essentially find the
+   arm which gives the maximum expected reward. We will be studying few algorithms to solve this problem.
+
+2. **Formalism of Reinforcement Learning in terms of Markov Decision Process:**
+
+   Way to generalise and represent a given problem as a Reinforcement Learning problem.
+
+3. **Dynamic Programming:**
+
+   The most basic set of algorithms to deal with prediction and control problems, that is, finding an optimal policy
+   given the complete Markov Decision Process.
+
+### [Week 2 Assignment](Week2)
+
+This ([snake.py](Week2/snake.py)) contains some starter code for creating a window and moving a square around in
+it. Modify this code to implement a game of Snake. (This project is intended to be highly collaborative, so get to know
+your co-mentees and work with them on this! Also, this is a very common game and can be found anywhere but try
+implementing it yourself, adding some valid customisations is encouraged.)
+- **Submission deadline:** 15th June EOD, dm me your submissions and tell the customisations if you did any.
