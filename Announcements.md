@@ -16,9 +16,9 @@ source or YouTube video.
 
 ### [Week 1 Assignment](./Week 1/week1.pdf)
 
-- **Q1:** this page - https://en.wikipedia.org/wiki/Inverse_transform_sampling
+- **Q1:** _Inverse Transform Sampling_ - https://en.wikipedia.org/wiki/Inverse_transform_sampling
 - **Q2:**
-    - _here_ - https://medium.com/analytics-vidhya/understanding-principle-component-analysis-pca-step-by-step-e7a4bb4031d9q2.
+    - _PCA_ - https://medium.com/analytics-vidhya/understanding-principle-component-analysis-pca-step-by-step-e7a4bb4031d9q2.
     - _pandas.read_csv_ - https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
     - _scatter plot_ - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
 - **Q3:** _scipy.optimize.curve fit._ - https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
