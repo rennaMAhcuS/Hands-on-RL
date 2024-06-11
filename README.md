@@ -1,5 +1,7 @@
 # Hands on Reinforcement Learning [Project ID: 153]
 
+Check out the [Walkthrough](Walkthrough.md) file for more details!
+
 ## General Information
 
 - **General Category:** Machine Learning

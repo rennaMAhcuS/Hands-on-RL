@@ -1,5 +1,7 @@
 # Hands on RL: SOC
 
+## Note: To solve the questions in the Weeks (If you are interested ☺️), checkout the Questions folder in the "Week {1-9}"
+
 ## [Prerequisites](./Books)
 
 ## [Week 1](./Week 1)
