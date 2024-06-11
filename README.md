@@ -60,15 +60,12 @@ Check out the [Walkthrough](Walkthrough.md) file for more details!
 1. Basic knowledge of Python libraries like numpy, sklearn.
 2. Basic knowledge of RL (can read the first 2-3 chapters from Sutton & Barto).
 
-[//]: # (## Statement of Purpose &#40;SOP&#41;)
+<!--
+## Statement of Purpose (SOP)
 
-[//]: # ()
-[//]: # (I am very much interested in learning about Reinforcement Learning and Machine Learning &#40;as AI-ML is a field with very)
-
-[//]: # (high demand 🙂&#41;. I believe working on your project would be a fantastic way for me to advance in this area. I am excited)
-
-[//]: # (to learn about the theoretical foundations of reinforcement learning and machine learning and their real-world)
-
-[//]: # (applications. I also have a basic knowledge of Python. I have a strong commitment to learning and meeting deadlines. I)
-
-[//]: # (am confident that my participation will enhance my Machine Learning and Reinforcement Learning expertise.)
+I am very much interested in learning about Reinforcement Learning and Machine Learning (as AI-ML is a field with very
+high demand 🙂). I believe working on your project would be a fantastic way for me to advance in this area. I am excited
+to learn about the theoretical foundations of reinforcement learning and machine learning and their real-world
+applications. I also have a basic knowledge of Python. I have a strong commitment to learning and meeting deadlines. I
+am confident that my participation will enhance my Machine Learning and Reinforcement Learning expertise.
+-->
