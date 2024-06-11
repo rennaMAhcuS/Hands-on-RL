@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!--
 <head>
   <title>Projects</title>
   <style>
@@ -19,9 +20,11 @@
     }
   </style>
 </head>
+-->
 
 <body>
-  <div id="projects" style="background-color: #3498db; margin: 20px; padding: 20px;">
+  <!-- <div id="projects" style="background-color: #3498db; margin: 20px; padding: 20px;"> -->
+  <div>
     <div class="project">
       <h2>Hands on Reinforcement Learning [ Project ID: 153 ]</h2>
       <p>General_category: ML</p>
@@ -63,7 +66,7 @@
     </div>
   </div>
 
-  <h2>SOP</h2>
+<h2>SOP</h2>
 
   <p>
     I am very much interested in learning about Reinforcement Learning and Machine Learning (as AI-ML is a field with very high demand 🙂).
