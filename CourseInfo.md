@@ -57,7 +57,7 @@
 ## Prerequisites
 
 1. Basic knowledge of Python libraries like numpy, sklearn.
-2. Basic knowledge of RL (can read the first 2-3 chapters from Sutton & Barto).
+2. Basic knowledge of RL (can read the first 2–3 chapters from Sutton & Barto).
 
 <!--
 ## Statement of Purpose (SOP)
