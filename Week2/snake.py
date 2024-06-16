@@ -34,7 +34,7 @@ while gameOn:
             gameOn = False
     keys = pygame.key.get_pressed()
     square.surf.fill((0, 0, 0))
-    screen.blit(square.surf, tuple(square.pos)) # Remove old square
+    screen.blit(square.surf, tuple(square.pos))  # Remove old square
     square.surf.fill((0, 200, 255))
     if keys[K_w] or keys[K_UP]:
         square.pos[1] -= 10
@@ -52,7 +52,7 @@ while gameOn:
         square.pos[0] += 10
         # keys[K_d] = False
         # keys[K_RIGHT] = False
-    screen.blit(square.surf, tuple(square.pos)) # Put new square
+    screen.blit(square.surf, tuple(square.pos))  # Put new square
     # Update the display using flip
     pygame.display.flip()
 

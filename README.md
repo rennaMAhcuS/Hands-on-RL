@@ -3,7 +3,7 @@
 > **Note:**
 >
 > To solve the questions in the Weeks (If you are interested ☺️), checkout the Questions folder in the Weeks.
-> Check out the [Course Info]() file for more details!
+> Check out the [Course Info](CourseInfo.md) file for more details!
 
 ## [Prerequisites](Books)
 
