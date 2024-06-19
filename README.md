@@ -38,13 +38,13 @@ Collaboration and Discussions across teams is also encouraged.
 
 ### [Week 1 Assignment](Week1/Questions)
 
-- [**Q1:**](Week1/Questions/q1) _Inverse Transform Sampling_ - https://en.wikipedia.org/wiki/Inverse_transform_sampling
+- [**Q1:**](Week1/Questions/q1) **Inverse Transform Sampling** - https://en.wikipedia.org/wiki/Inverse_transform_sampling
 - [**Q2:**](Week1/Questions/q2)
-    - **_PCA_** -
+    - **PCA** -
       https://medium.com/analytics-vidhya/understanding-principle-component-analysis-pca-step-by-step-e7a4bb4031d9q2
-    - **_pandas.read_csv_** - https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
-    - **_scatter plot_** - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
-- [**Q3:**](Week1/Questions/q3) **_scipy.optimize.curve_fit_** -
+    - **pandas.read_csv** - https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
+    - **Scatter Plot** - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+- [**Q3:**](Week1/Questions/q3) **scipy.optimize.curve_fit** -
   https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
 
 <!--
