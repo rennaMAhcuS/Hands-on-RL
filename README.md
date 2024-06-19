@@ -42,9 +42,9 @@ Collaboration and Discussions across teams is also encouraged.
 - [**Q2:**](Week1/Questions/q2)
     - **PCA** -
       https://medium.com/analytics-vidhya/understanding-principle-component-analysis-pca-step-by-step-e7a4bb4031d9q2
-    - **pandas.read_csv** - https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
+    - **`pandas.read_csv`** - https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
     - **Scatter Plot** - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
-- [**Q3:**](Week1/Questions/q3) **scipy.optimize.curve_fit** -
+- [**Q3:**](Week1/Questions/q3) **`scipy.optimize.curve_fit`** -
   https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
 
 <!--
