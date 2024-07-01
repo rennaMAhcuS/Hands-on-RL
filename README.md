@@ -47,10 +47,6 @@
 │   ├── Questions/
 │   ├── Solved_Files/  # Files related to solved questions
 │   └── README.md
-├── Week3/
-│   ├── Questions/
-│   ├── Solved_Files/  # Files related to solved questions
-│   └── README.md
 .
 . (Continue similarly for other weeks)
 .
