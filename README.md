@@ -54,11 +54,13 @@
 └── README.md
 ```
 
-## [Week1](Week1)
+## [Week 1](Week1)
 
 This week covers the basic topics of **`python`** required for **Machine Learning** and **Reinforcement Learning**.
 The basics of **Reinforcement Learning** are also covered in the books **Grokking RL** and **Sutton and Barto**.
 
-## [Week2](Week2)
+## [Week 2](Week2)
 
-## [Week3](Week3)
+## [Week 3](Week3)
+
+## [Week 4](Week4)
