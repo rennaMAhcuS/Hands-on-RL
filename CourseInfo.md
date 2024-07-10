@@ -9,6 +9,8 @@
 - **Mentee Capacity:** 10-15
 - **Mentor:** Soham Dahane (22b0941)
 - **Co-Mentor:** Shreyas Katdare (22b0636)
+- [**Source GitHub Repo Fork**](https://github.com/rennaMAhcuS/Hands-on-RL-Source)
+- [**Source GitHub Repo**](https://github.com/SohamD1234/HandsOnRL-SOC)
 - **Description:**
   Hands-on Reinforcement Learning.
   Reading material: Sutton & Barto, "Grokking Deep Reinforcement Learning."
