@@ -41,15 +41,16 @@
 │   └── Books/
 ├── Week1/
 │   ├── Questions/
-│   ├── Solved_Files/  # Files related to solved questions
+│   ├── {Solved Files}  # Files related to solved questions
 │   └── README.md
 ├── Week2/
 │   ├── Questions/
-│   ├── Solved_Files/  # Files related to solved questions
+│   ├── {Solved Files}  # Files related to solved questions
 │   └── README.md
 .
 . (Continue similarly for other weeks)
 .
+├── .gitignore
 ├── CourseInfo.md
 └── README.md
 ```
