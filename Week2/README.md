@@ -32,11 +32,3 @@ Our learning objectives for this week are:
 
 This [snake.py](Questions/snake.py) contains some starter code for creating a window and moving a square around in it.
 Modify this code to implement a game of **Snake**.
-
-<!--
-This project is intended to be highly collaborative: so get to know your co-mentees and work with them on this! Also,
-this is a widespread game and can be found anywhere, but try implementing it yourself, adding some valid customizations
-is encouraged.
-
-Submission deadline: 16th June EOD, DM me your submissions and tell the customizations if you did any.
--->

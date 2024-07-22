@@ -18,15 +18,10 @@ when we don't know the model of the environment:
   The topics may seem more difficult than what you have been reading upon, but the basic ideas remain the same, and by
   the end, you will definitely get a sense of how these algorithms are constructed.
 
-<!--
-Assignments for this week will be released shortly (we will probably start with our first game 🥳, albeit a simple one).
-PS: Do submit the assignment for the previous week as soon as possible 🥲.
--->
-
 > [!TIP]
 > 
 > You can also read the material on **Thompson Sampling** as an extra read.
 
 ## Assignment
 
-No assignment! Just the reading material for this week 🙂.
+No assignment! Just the reading material for this week 🥳.

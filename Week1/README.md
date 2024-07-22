@@ -8,19 +8,7 @@ Also, this week, we will learn about **`python`**, in particular Python Librarie
 
 We will implement some of the common ML algorithms from scratch.
 
-<!-- Some basic ideas on Machine Learning (if you are interested) can be achieved from [**here**](). -->
-
-<!--
-I will provide some reading material for the same and an assignment by EOD or tomorrow.
-Till then, you can get some basic ideas about Machine Learning through any online source
-or YouTube video.
-Also, I feel the best way to enhance collaboration in this project is to make teams among the mentees.
-Please find a group of co-mentees and team up with (no strict limit on team size).
-Let me know the people you are teaming up with.
-Also note that, in the end, we wish all the mentees to work together on this project.
-Hence, team membership is not fixed for the project's duration, and there is no cap on team size.
-Collaboration and Discussions across teams are also encouraged.
--->
+<!-- You can get some basic ideas about Machine Learning through any online source or YouTube video. -->
 
 ## Reading Material
 
@@ -38,8 +26,4 @@ The questions are [**here**](Questions).
   - **Scatter Plot**: [Matplotlib Official Documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html).
 - [**Q3**](Questions/q3): **`scipy.optimize.curve_fit`**: [SciPy Official Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html).
 
-<!--
-For this week, DM the solution files to me. We will make a proper repository the next week.
-Note that using any Generative AI is not encouraged.
-Happy Learning!
--->
+<!-- Note that using any Generative AI is not encouraged. Happy Learning! -->
