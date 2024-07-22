@@ -3,18 +3,20 @@
 > [!NOTE]
 > 
 > To solve the questions in the Weeks (If you are interested 😊), check out the Questions folder in the Weeks.
-> Check out the [Course Info](CourseInfo.md) file for more details!
+> Check out the [**Course Info**](CourseInfo.md) file for more details!
 > 
 > Note: The books which have copyrights aren't being uploaded here.
 > The books in the Resources/Books/ directory are downloaded from the sources listed in the
 > 'Books and Resources' section.
 > 
 > If you want to learn from this repository(❤️), follow the README files to stay organized and on track.
+> 
+> Refer [**this**](https://github.com/rennaMAhcuS/Hands-on-RL-Source) for more info!
 
 ## [Books and Resources](Resources/Books)
 
 - [**Grokking RL**](https://www.google.co.in/books/edition/Grokking_Deep_Reinforcement_Learning/-7YCEAAAQBAJ):
-  I didn't find an official resource 😢
+  I didn't find an official resource 😢...
   
   <!-- The book is available [**here**](Resources/Books/Grokking_RL.pdf). -->
 
@@ -62,6 +64,15 @@ The basics of **Reinforcement Learning** are also covered in the books **Grokkin
 
 ## [Week 2](Week2)
 
+This week covers the basics of **Reinforcement Learning**, mainly covered from **Grokking RL**.
+It also has an assignment to cover the basics of writing a game in **`python`** using the **`pygame`** module.
+
 ## [Week 3](Week3)
 
-## [Week 4](Week4)
+This week covers the algorithms to deal with prediction and control problems.
+
+> [!TIP]
+> 
+> There were some dead weeks also in between in my SoC.
+> Considering those also would make this an ~8-Week course.
+> I have removed all the inactive weeks from this repository to streamline it for convenient learning.
