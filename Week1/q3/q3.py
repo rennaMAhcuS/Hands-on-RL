@@ -20,7 +20,6 @@ def find_constants(df: pd.DataFrame, func: Callable):
 
     # TODO: fit a curve using SciPy to estimate v and k
     v, k = curve_fit(func, df.values[:, 0], df.values[:, 1])[0]
-
     # END TODO
 
     return v, k
@@ -41,5 +40,4 @@ if __name__ == "__main__":
     plt.plot(df.values[:, 0], func(df.values[:, 0], v, k), 'r-', label=f'fit: v={v}, k={k}')
     plt.legend()
     plt.savefig('fit_curve.png')
-
     # END TODO

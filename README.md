@@ -37,7 +37,7 @@
 
 <!-- The one that is visible in GitHub Remote. -->
 
-```
+```text
 .
 ├── Resources/
 │   └── Books/
@@ -70,6 +70,10 @@ It also has an assignment to cover the basics of writing a game in **`python`** 
 ## [Week 3](Week3)
 
 This week covers the algorithms to deal with prediction and control problems.
+
+## [Week 4](Week4)
+
+This week 
 
 > [!TIP]
 > 

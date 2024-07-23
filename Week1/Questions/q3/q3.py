@@ -1,28 +1,27 @@
 from typing import Callable
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-from scipy.optimize import curve_fit
 
-def func(t, v, k):
+import pandas as pd
+
+
+def func(t, func_v, func_k):
     """ computes the function S(t) with constants v and k """
-    
+
     # TODO: return the given function S(t)
 
     # END TODO
 
 
-def find_constants(df: pd.DataFrame, func: Callable):
+def find_constants(df_to_fit: pd.DataFrame, func_to_fit: Callable):
     """ returns the constants v and k """
 
-    v = 0
-    k = 0
+    fit_v = None
+    fit_k = None
 
     # TODO: fit a curve using SciPy to estimate v and k
 
     # END TODO
-
-    return v, k
+    # v and k should be of the appropriate dtype
+    return fit_v, fit_k
 
 
 if __name__ == "__main__":
