@@ -1,5 +1,5 @@
-Welcome to Week 4. This week, we will be starting with a simple game and use Q-learning to "solve" the environment.
-
+# Week 5
+We will start this week's topic (Temporal Difference Learning and Q Learning) today. Please start reading the relevant chapter from S&B. The assignment will be released soon.
 ## Gymnasium
 
 Provides environments to represent RL problems with a simple interface to interact with. 

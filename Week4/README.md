@@ -5,7 +5,7 @@ We shall properly learn about **Multi-armed bandits** and **Finite Markov decisi
 ## Reading Material
 It is implementation time! Learn along with the assignment!
 
-## [Assignment](Questions)
+## [Assignment](Assignment)
 
 You have to implement some policies for the Multi-armed bandit problem.
 

@@ -42,11 +42,11 @@
 ├── Resources/
 │   └── Books/
 ├── Week1/
-│   ├── Questions/
+│   ├── Assignment/
 │   ├── {Solved Files}  # Files related to solved questions
 │   └── README.md
 ├── Week2/
-│   ├── Questions/
+│   ├── Assignment/
 │   ├── {Solved Files}  # Files related to solved questions
 │   └── README.md
 .
@@ -69,7 +69,7 @@ It also has an assignment to cover the basics of writing a game in **`python`** 
 
 ## [Week 3](Week3)
 
-This week covers the algorithms to deal with prediction and control problems.
+This week covers the algorithms to deal with **prediction and control problems**.
 
 ## [Week 4](Week4)
 
@@ -77,7 +77,7 @@ This week covers the implementation of the Multi-armed bandit problem implemente
 
 ## [Week 5](Week5)
 
-
+This week covers starting with a simple game and using **Q-learning** to "**solve**" the environment.
 
 ## [Week 6](Week6)
 

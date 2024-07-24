@@ -28,7 +28,7 @@ Our learning objectives for this week are:
 - If you are more interested in theory, you may also read these topics from **Sutton and Barto**.
 
 
-## [Assignment](Questions)
+## [Assignment](Assignment)
 
-This [snake.py](Questions/snake.py) contains some starter code for creating a window and moving a square around in it.
+This [snake.py](Assignment/snake.py) contains some starter code for creating a window and moving a square around in it.
 Modify this code to implement a game of **Snake**.
