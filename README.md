@@ -73,7 +73,17 @@ This week covers the algorithms to deal with prediction and control problems.
 
 ## [Week 4](Week4)
 
-This week 
+This week covers the implementation of the Multi-armed bandit problem implemented in **`python`**.
+
+## [Week 5](Week5)
+
+
+
+## [Week 6](Week6)
+
+
+
+---
 
 > [!TIP]
 > 

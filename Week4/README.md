@@ -13,7 +13,9 @@ The file structure:
 ```text
 Questions
 ├── bandits.py
-│   └── 
+│   ├── (↓ Distributions ↓)
+│   ├── Bernoulli
+│   └── Gaussian
 ├── agents.py
 └── results.py
 ```
@@ -28,7 +30,7 @@ Currently, it implements two types of distribution for bandit arms:
 - **Gaussian**: Returns reward from a Gaussian Distribution with a fixed mean (dependent on the arm) and `variance = 1`.
 
 The `Bandit` class also tracks the regret: 
-$ \text{regret} = k \cdot \text{optimal-reward} - \sum R_t $
+$ \text{regret}(T) = {T \cdot \text{optimal}} - \text{reward} - {\sum\limits_{t=1}^T} {R_t} $
 You can access the regret at any timestamp using the `get_regret()` function.
 
 > [!NOTE]
