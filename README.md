@@ -1,4 +1,4 @@
-# Hands on RL: SOC
+# Hands on RL
 
 > [!NOTE]
 > 
