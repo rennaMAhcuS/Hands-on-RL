@@ -10,6 +10,9 @@
 > 'Books and Resources' section.
 > 
 > If you want to learn from this repository(❤️), follow the README files to stay organized and on track.
+> ## License 
+> This work is licensed under the
+> [**Creative Commons Attribution-ShareAlike 4.0 International License**](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 > 
 > Refer [**this**](https://github.com/rennaMAhcuS/Hands-on-RL-Source) for more info!
 
@@ -96,3 +99,4 @@ We will be implementing [**this paper**](Week6/thesis.pdf) to create a Chess Eng
 > There were some dead weeks also in between in my SoC.
 > Considering those also would make this an ~8-Week course.
 > I have removed all the inactive weeks from this repository to streamline it for convenient learning.
+
