@@ -83,10 +83,12 @@ and using **Q-learning** to **"solve"** the environment.
 ## [Week 6](Week6)
 
 We have reached the ending!
-We will be implementing [this paper](Week6/thesis.pdf) to create a Chess Engine based on Deep RL.
+We will be implementing [**this paper**](Week6/thesis.pdf) to create a Chess Engine based on Deep RL.
 
 ---
-# Happy Learning!
+
+# Happy Learning 🥰!
+
 ---
 
 > [!TIP]
