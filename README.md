@@ -69,7 +69,7 @@ It also has an assignment to cover the basics of writing a game in **`python`** 
 
 ## [Week 3](Week3)
 
-This week covers the algorithms to deal with **prediction and control problems**.
+This week covers the algorithms to deal with **Prediction and Control problems**.
 
 ## [Week 4](Week4)
 
@@ -77,12 +77,16 @@ This week covers the implementation of the Multi-armed bandit problem implemente
 
 ## [Week 5](Week5)
 
-This week covers starting with a simple game and using **Q-learning** to "**solve**" the environment.
+This week covers **Temporal Difference Learning**, **Q Learning** and **Eligibility Traces** along with a simple game
+and using **Q-learning** to **"solve"** the environment.
 
 ## [Week 6](Week6)
 
+We have reached the ending!
+We will be implementing [this paper](Week6/thesis.pdf) to create a Chess Engine based on Deep RL.
 
-
+---
+# Happy Learning!
 ---
 
 > [!TIP]
