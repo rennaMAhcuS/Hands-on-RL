@@ -5,7 +5,7 @@
 > To solve the questions in the Weeks (If you are interested 😊), check out the Questions folder in the Weeks.
 > Check out the [**Course Info**](CourseInfo.md) file for more details!
 > 
-> Note: The books which have copyrights aren't being uploaded here.
+> Note: The books that have copyrights aren't being uploaded here.
 > The books in the Resources/Books/ directory are downloaded from the sources listed in the
 > 'Books and Resources' section.
 > 
